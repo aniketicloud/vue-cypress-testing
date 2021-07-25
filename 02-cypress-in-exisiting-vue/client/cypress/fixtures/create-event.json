@@ -1,0 +1,10 @@
+{
+  "_id": "2",
+  "name": "Learn with Pluralsight",
+  "venue": "Pluralsight",
+  "date": "2023-10-10",
+  "time": "12:00AM",
+  "ticketQuantity": 100,
+  "isCancelled": false,
+  "image": "./assets/event-2.jpg"
+}
