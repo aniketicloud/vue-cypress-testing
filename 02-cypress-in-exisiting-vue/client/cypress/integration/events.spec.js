@@ -9,6 +9,6 @@ describe('Event', () => {
 
   it('should list all events', () => {
     cy.visit('/');
-    cy.wait('@list-events', { timeout: 10000 })
+    cy.wait('@list-events', { timeout: 10000 });
   });
 });
